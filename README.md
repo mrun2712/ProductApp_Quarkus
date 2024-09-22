@@ -16,7 +16,7 @@ RESTEasy: For building RESTful APIs.
 Swagger: API documentation and testing.
 
 Prerequisites:
-Java 11 or higher
+Java 21 or higher
 Maven 3.6.3+
 IDE with Maven support (Optional)
 
